@@ -1,2 +1,7 @@
 # Knight2D
-Jogo desenvolvido para disciplina Técnicas Implementação Jogos da Pós Jogos Digitais PUCPR 2016.
+
+Game developed during a postgraduation course in 2016
+
+# Gameplay video
+
+[![Gameplay Video](sample-gameplay.png)](https://youtu.be/5DAj1Tg_oLw-Y "Gameplay")
