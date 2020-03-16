@@ -1,6 +1,6 @@
 # Knight2D
 
-Game developed during a postgraduation course in 2016
+Game developed using C++.
 
 # Gameplay video
 
